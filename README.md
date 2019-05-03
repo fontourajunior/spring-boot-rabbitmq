@@ -10,4 +10,3 @@ It's is a simple project, using spring boot with rabbitmq and docker, to start p
   - in the project root folder, type: 
   ```
 docker-compose up
-
